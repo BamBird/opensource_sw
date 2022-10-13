@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AAA2 bb
+=======
+dsdsdssd
+>>>>>>> Branch2
